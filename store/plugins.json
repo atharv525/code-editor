@@ -305,7 +305,7 @@
     },
     {
       "id": "codegallery.rest-book",
-      "name": "REST Book",
+      "name": "REST Client",
       "version": "1.0.0",
       "description_short": "Send HTTP requests from .http / .rest files and see the response in a new tab. Variables with @name = value and {{name}}. Separate requests with ###.",
       "keywords": [
@@ -510,6 +510,404 @@
       "icon": "plugins/codegallery.mongodb/icon.png",
       "zip": "plugins/codegallery.mongodb/plugin.zip",
       "readme": "plugins/codegallery.mongodb/readme.md"
+    },
+    {
+      "id": "codegallery.live-server",
+      "name": "Live Server",
+      "version": "1.0.0",
+      "description_short": "Serve your project at http://127.0.0.1:5500 with live reload: every save refreshes the page in the in-app browser.",
+      "keywords": [
+        "live server",
+        "preview",
+        "reload",
+        "html",
+        "localhost"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.live-server/icon.png",
+      "zip": "plugins/codegallery.live-server/plugin.zip",
+      "readme": "plugins/codegallery.live-server/readme.md"
+    },
+    {
+      "id": "codegallery.html-css-support",
+      "name": "HTML CSS Support",
+      "version": "1.0.0",
+      "description_short": "Auto-complete CSS class names inside class=\"...\" (and className) from your project's .css/.scss/.less files and <style> blocks. HTML and CSS language servers are on.",
+      "keywords": [
+        "html",
+        "css",
+        "class",
+        "completion",
+        "id"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.html-css-support/icon.png",
+      "zip": "plugins/codegallery.html-css-support/plugin.zip",
+      "readme": "plugins/codegallery.html-css-support/readme.md"
+    },
+    {
+      "id": "codegallery.js-debugger",
+      "name": "JS Debugger",
+      "version": "1.0.0",
+      "description_short": "Debug JavaScript with the Node.js inspector in the terminal: breakpoints (debugger; or sb(line)), step over/in/out, watch and inspect variables in repl. Also run the current file with Node.",
+      "keywords": [
+        "debug",
+        "debugger",
+        "node",
+        "breakpoint",
+        "javascript"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.js-debugger/icon.png",
+      "zip": "plugins/codegallery.js-debugger/plugin.zip",
+      "readme": "plugins/codegallery.js-debugger/readme.md"
+    },
+    {
+      "id": "codegallery.auto-rename-tag",
+      "name": "Auto Rename Tag",
+      "version": "1.0.0",
+      "description_short": "Rename an HTML/XML/JSX opening tag and the matching closing tag changes too (and the other way around). Works in .html, .xml, .svg, .vue, .svelte, .php, .jsx, .tsx.",
+      "keywords": [
+        "html",
+        "tag",
+        "rename",
+        "xml",
+        "jsx"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.auto-rename-tag/icon.png",
+      "zip": "plugins/codegallery.auto-rename-tag/plugin.zip",
+      "readme": "plugins/codegallery.auto-rename-tag/readme.md"
+    },
+    {
+      "id": "codegallery.css-peek",
+      "name": "CSS Peek",
+      "version": "1.0.0",
+      "description_short": "Jump from a class or id in HTML/JSX to its CSS rule in your project's .css/.scss/.less files.",
+      "keywords": [
+        "css",
+        "peek",
+        "definition",
+        "class",
+        "id"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.css-peek/icon.png",
+      "zip": "plugins/codegallery.css-peek/plugin.zip",
+      "readme": "plugins/codegallery.css-peek/readme.md"
+    },
+    {
+      "id": "codegallery.tailwind",
+      "name": "Tailwind CSS IntelliSense",
+      "version": "1.0.0",
+      "description_short": "Tailwind class auto-complete, hover previews of the generated CSS, and lint warnings using the official Tailwind CSS language server.",
+      "keywords": [
+        "tailwind",
+        "tailwindcss",
+        "css",
+        "classes",
+        "lsp"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.tailwind/icon.png",
+      "zip": "plugins/codegallery.tailwind/plugin.zip",
+      "readme": "plugins/codegallery.tailwind/readme.md"
+    },
+    {
+      "id": "codegallery.eslint",
+      "name": "ESLint",
+      "version": "1.0.0",
+      "description_short": "Find and fix problems in JavaScript/TypeScript with ESLint: errors and warnings as you type, quick fixes. Uses your project's eslint config.",
+      "keywords": [
+        "eslint",
+        "lint",
+        "javascript",
+        "typescript"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.eslint/icon.png",
+      "zip": "plugins/codegallery.eslint/plugin.zip",
+      "readme": "plugins/codegallery.eslint/readme.md"
+    },
+    {
+      "id": "codegallery.prettier",
+      "name": "Prettier",
+      "version": "1.0.0",
+      "description_short": "Format code with Prettier (JS, TS, JSX, CSS, SCSS, HTML, JSON, Markdown, YAML, GraphQL, Vue). Turn on format on save.",
+      "keywords": [
+        "prettier",
+        "format",
+        "formatter",
+        "beautify"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.prettier/icon.png",
+      "zip": "plugins/codegallery.prettier/plugin.zip",
+      "readme": "plugins/codegallery.prettier/readme.md"
+    },
+    {
+      "id": "codegallery.vue",
+      "name": "Vue",
+      "version": "1.0.0",
+      "description_short": "Vue 3 support with the official Vue language server: auto-complete, errors and go to definition in templates, script and style. Plus component snippets.",
+      "keywords": [
+        "vue",
+        "vue3",
+        "nuxt",
+        "lsp",
+        "volar"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.vue/icon.png",
+      "zip": "plugins/codegallery.vue/plugin.zip",
+      "readme": "plugins/codegallery.vue/readme.md"
+    },
+    {
+      "id": "codegallery.git-history",
+      "name": "Git History",
+      "version": "1.0.0",
+      "description_short": "Git inside the editor: inline blame on the current line (who changed it and when), commit details, file history with diffs, and Source Control page to commit, push and pull.",
+      "keywords": [
+        "git",
+        "blame",
+        "history",
+        "commit",
+        "source control"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.git-history/icon.png",
+      "zip": "plugins/codegallery.git-history/plugin.zip",
+      "readme": "plugins/codegallery.git-history/readme.md"
+    },
+    {
+      "id": "codegallery.git-graph",
+      "name": "Git Graph",
+      "version": "1.0.0",
+      "description_short": "See your repository history as a colored commit graph with branches and tags. Tap a commit to see its changes. Switch or create branches.",
+      "keywords": [
+        "git",
+        "graph",
+        "log",
+        "branches",
+        "commits"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.git-graph/icon.png",
+      "zip": "plugins/codegallery.git-graph/plugin.zip",
+      "readme": "plugins/codegallery.git-graph/readme.md"
+    },
+    {
+      "id": "codegallery.github-pr",
+      "name": "GitHub Pull Requests",
+      "version": "1.0.0",
+      "description_short": "Work with GitHub pull requests: list, view, see the diff, checkout, comment, approve, merge, and create new PRs (GitHub CLI).",
+      "keywords": [
+        "github",
+        "pull request",
+        "pr",
+        "review",
+        "merge"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.github-pr/icon.png",
+      "zip": "plugins/codegallery.github-pr/plugin.zip",
+      "readme": "plugins/codegallery.github-pr/readme.md"
+    },
+    {
+      "id": "codegallery.github-repos",
+      "name": "GitHub Repos",
+      "version": "1.0.0",
+      "description_short": "Pick any of your GitHub repositories (or paste a URL) and clone it into Projects on your phone; it opens in the editor right away.",
+      "keywords": [
+        "github",
+        "repository",
+        "clone",
+        "repo"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.github-repos/icon.png",
+      "zip": "plugins/codegallery.github-repos/plugin.zip",
+      "readme": "plugins/codegallery.github-repos/readme.md"
+    },
+    {
+      "id": "codegallery.project-manager",
+      "name": "Project Manager",
+      "version": "1.0.0",
+      "description_short": "Save your project folders and switch between them in two taps.",
+      "keywords": [
+        "project",
+        "manager",
+        "folders",
+        "switch",
+        "workspace"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.project-manager/icon.png",
+      "zip": "plugins/codegallery.project-manager/plugin.zip",
+      "readme": "plugins/codegallery.project-manager/readme.md"
+    },
+    {
+      "id": "codegallery.sqlite",
+      "name": "SQLite Viewer",
+      "version": "1.0.0",
+      "description_short": "Open .db / .sqlite files: list tables, browse rows and run any SQL query with results shown as a table. Create new databases too.",
+      "keywords": [
+        "sqlite",
+        "database",
+        "db",
+        "table",
+        "viewer"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.sqlite/icon.png",
+      "zip": "plugins/codegallery.sqlite/plugin.zip",
+      "readme": "plugins/codegallery.sqlite/readme.md"
+    },
+    {
+      "id": "codegallery.sql-tools",
+      "name": "SQL Tools",
+      "version": "1.0.0",
+      "description_short": "Connect to SQLite, MySQL/MariaDB and PostgreSQL. Save connections, browse tables and run the SQL statement under the cursor (or the selection) from any .sql file.",
+      "keywords": [
+        "sql",
+        "mysql",
+        "postgres",
+        "postgresql",
+        "mariadb",
+        "database"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.sql-tools/icon.png",
+      "zip": "plugins/codegallery.sql-tools/plugin.zip",
+      "readme": "plugins/codegallery.sql-tools/readme.md"
+    },
+    {
+      "id": "codegallery.api-client",
+      "name": "API Client",
+      "version": "1.0.0",
+      "description_short": "A simple Postman-like screen: pick the method, enter URL, headers and body, Send and see status, time, headers and pretty JSON. Keeps your last 30 requests.",
+      "keywords": [
+        "api",
+        "http",
+        "rest",
+        "client",
+        "postman",
+        "request"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.api-client/icon.png",
+      "zip": "plugins/codegallery.api-client/plugin.zip",
+      "readme": "plugins/codegallery.api-client/readme.md"
+    },
+    {
+      "id": "codegallery.docker",
+      "name": "Docker",
+      "version": "1.0.0",
+      "description_short": "Dockerfile language server and snippets, plus control a Docker server over SSH: containers (logs, shell, restart, stop), images, compose up/down, build. Containers cannot run on the phone itself.",
+      "keywords": [
+        "docker",
+        "dockerfile",
+        "compose",
+        "containers"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.docker/icon.png",
+      "zip": "plugins/codegallery.docker/plugin.zip",
+      "readme": "plugins/codegallery.docker/readme.md"
+    },
+    {
+      "id": "codegallery.ssh-remote",
+      "name": "SSH Remote",
+      "version": "1.0.0",
+      "description_short": "Save SSH servers and connect in the terminal, create an SSH key, upload the current file (scp), sync your project folder to the server (rsync). Edit remote files with the built-in SFTP folder.",
+      "keywords": [
+        "ssh",
+        "remote",
+        "server",
+        "scp",
+        "rsync",
+        "sftp"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.ssh-remote/icon.png",
+      "zip": "plugins/codegallery.ssh-remote/plugin.zip",
+      "readme": "plugins/codegallery.ssh-remote/readme.md"
     }
   ]
 }

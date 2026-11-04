@@ -1,4 +1,4 @@
-# REST Book
+# REST Client
 
 Send HTTP requests from .http / .rest files and see the response in a new tab. Variables with @name = value and {{name}}. Separate requests with ###.
 
@@ -8,7 +8,7 @@ Create a file like api.http, write a request (GET https://api.github.com), put t
 
 ## Commands
 
-- REST Book: Insert snippet (GET request, POST JSON, PUT JSON, DELETE request, Bearer token header, Variable)
-- REST Book: Send request
+- REST Client: Insert snippet (GET request, POST JSON, PUT JSON, DELETE request, Bearer token header, Variable)
+- REST Client: Send request
 
 Made by Code Gallery.
