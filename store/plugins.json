@@ -101,6 +101,208 @@
       "icon": "plugins/codegallery.javascript-snippets/icon.png",
       "zip": "plugins/codegallery.javascript-snippets/plugin.zip",
       "readme": "plugins/codegallery.javascript-snippets/readme.md"
+    },
+    {
+      "id": "codegallery.python-language",
+      "name": "Python",
+      "version": "1.0.0",
+      "description_short": "Python language support: auto-complete, hover docs, go to definition and lint warnings (pylsp with pyflakes and pycodestyle).",
+      "keywords": [
+        "python",
+        "lsp",
+        "autocomplete",
+        "lint"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.python-language/icon.png",
+      "zip": "plugins/codegallery.python-language/plugin.zip",
+      "readme": "plugins/codegallery.python-language/readme.md"
+    },
+    {
+      "id": "codegallery.basedpyright",
+      "name": "BasedPyright (Pylance engine)",
+      "version": "1.0.0",
+      "description_short": "Fast Python type checking and IntelliSense, built on Pyright, the open-source engine inside Pylance. (Pylance itself is licensed only for Microsoft VS Code.)",
+      "keywords": [
+        "pylance",
+        "pyright",
+        "basedpyright",
+        "python",
+        "types",
+        "lsp"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.basedpyright/icon.png",
+      "zip": "plugins/codegallery.basedpyright/plugin.zip",
+      "readme": "plugins/codegallery.basedpyright/readme.md"
+    },
+    {
+      "id": "codegallery.cpp",
+      "name": "C/C++",
+      "version": "1.0.0",
+      "description_short": "C and C++ support with clangd: auto-complete, errors as you type, go to definition, formatting.",
+      "keywords": [
+        "c",
+        "cpp",
+        "c++",
+        "clangd",
+        "lsp"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.cpp/icon.png",
+      "zip": "plugins/codegallery.cpp/plugin.zip",
+      "readme": "plugins/codegallery.cpp/readme.md"
+    },
+    {
+      "id": "codegallery.java",
+      "name": "Java Extension Pack",
+      "version": "1.0.0",
+      "description_short": "Java support with Eclipse JDT Language Server: auto-complete, errors, imports, refactoring. Installs OpenJDK (large download, first time only).",
+      "keywords": [
+        "java",
+        "jdtls",
+        "lsp",
+        "jdk"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.java/icon.png",
+      "zip": "plugins/codegallery.java/plugin.zip",
+      "readme": "plugins/codegallery.java/readme.md"
+    },
+    {
+      "id": "codegallery.kotlin",
+      "name": "Kotlin",
+      "version": "1.0.0",
+      "description_short": "Kotlin syntax highlighting and language support (kotlin-language-server): auto-complete, errors, go to definition. Installs Java 17 (first time only).",
+      "keywords": [
+        "kotlin",
+        "kt",
+        "android",
+        "lsp"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.kotlin/icon.png",
+      "zip": "plugins/codegallery.kotlin/plugin.zip",
+      "readme": "plugins/codegallery.kotlin/readme.md"
+    },
+    {
+      "id": "codegallery.dart",
+      "name": "Dart",
+      "version": "1.0.0",
+      "description_short": "Dart language support with the official Dart analysis server: auto-complete, errors, quick fixes. Installs the Dart SDK (about 140 MB, experimental build for the app terminal).",
+      "keywords": [
+        "dart",
+        "flutter",
+        "lsp"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.dart/icon.png",
+      "zip": "plugins/codegallery.dart/plugin.zip",
+      "readme": "plugins/codegallery.dart/readme.md"
+    },
+    {
+      "id": "codegallery.go",
+      "name": "Go",
+      "version": "1.0.0",
+      "description_short": "Go support with gopls: auto-complete, errors, imports, formatting with gofumpt.",
+      "keywords": [
+        "go",
+        "golang",
+        "gopls",
+        "lsp"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.go/icon.png",
+      "zip": "plugins/codegallery.go/plugin.zip",
+      "readme": "plugins/codegallery.go/readme.md"
+    },
+    {
+      "id": "codegallery.rust-analyzer",
+      "name": "Rust Analyzer",
+      "version": "1.0.0",
+      "description_short": "Rust support with rust-analyzer: auto-complete, errors, inlay hints, go to definition. Installs Rust and Cargo.",
+      "keywords": [
+        "rust",
+        "rust-analyzer",
+        "cargo",
+        "lsp"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.rust-analyzer/icon.png",
+      "zip": "plugins/codegallery.rust-analyzer/plugin.zip",
+      "readme": "plugins/codegallery.rust-analyzer/readme.md"
+    },
+    {
+      "id": "codegallery.intelephense",
+      "name": "PHP Intelephense",
+      "version": "1.0.0",
+      "description_short": "PHP IntelliSense with Intelephense: auto-complete, hover docs, go to definition, errors.",
+      "keywords": [
+        "php",
+        "intelephense",
+        "lsp",
+        "laravel"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.intelephense/icon.png",
+      "zip": "plugins/codegallery.intelephense/plugin.zip",
+      "readme": "plugins/codegallery.intelephense/readme.md"
+    },
+    {
+      "id": "codegallery.flutter-snippets",
+      "name": "Flutter Snippets",
+      "version": "1.0.0",
+      "description_short": "Ready-made Flutter widget code: app, StatelessWidget, StatefulWidget, Scaffold, ListView.builder, Column/Row, FutureBuilder, navigation. Note: building and running Flutter apps needs a computer; on the phone you can write and edit the code.",
+      "keywords": [
+        "flutter",
+        "dart",
+        "widgets",
+        "snippets"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.flutter-snippets/icon.png",
+      "zip": "plugins/codegallery.flutter-snippets/plugin.zip",
+      "readme": "plugins/codegallery.flutter-snippets/readme.md"
     }
   ]
 }
