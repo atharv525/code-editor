@@ -1,0 +1,106 @@
+{
+  "name": "Code Gallery Plugin Store",
+  "plugins": [
+    {
+      "id": "codegallery.python-snippets",
+      "name": "Python Snippets",
+      "version": "1.0.0",
+      "description_short": "Ready-made Python code: main block, functions, classes, loops, file I/O, try/except, dataclass, argparse.",
+      "keywords": [
+        "python",
+        "py",
+        "snippets"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.python-snippets/icon.png",
+      "zip": "plugins/codegallery.python-snippets/plugin.zip",
+      "readme": "plugins/codegallery.python-snippets/readme.md"
+    },
+    {
+      "id": "codegallery.php-snippets",
+      "name": "PHP Snippets",
+      "version": "1.0.0",
+      "description_short": "Ready-made PHP code: page template, functions, classes, forms, PDO database, JSON API, sessions.",
+      "keywords": [
+        "php",
+        "snippets",
+        "web"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.php-snippets/icon.png",
+      "zip": "plugins/codegallery.php-snippets/plugin.zip",
+      "readme": "plugins/codegallery.php-snippets/readme.md"
+    },
+    {
+      "id": "codegallery.nextjs-snippets",
+      "name": "Next.js Snippets",
+      "version": "1.0.0",
+      "description_short": "Ready-made Next.js (App Router) code: page, layout, client component, API route, server action, loading, metadata.",
+      "keywords": [
+        "next",
+        "nextjs",
+        "react",
+        "jsx",
+        "tsx",
+        "snippets"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.nextjs-snippets/icon.png",
+      "zip": "plugins/codegallery.nextjs-snippets/plugin.zip",
+      "readme": "plugins/codegallery.nextjs-snippets/readme.md"
+    },
+    {
+      "id": "codegallery.css-snippets",
+      "name": "CSS Snippets",
+      "version": "1.0.0",
+      "description_short": "Ready-made CSS: reset, flexbox center, grid layout, media query, variables, animation, card, button, dark mode.",
+      "keywords": [
+        "css",
+        "style",
+        "snippets",
+        "flexbox",
+        "grid"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.css-snippets/icon.png",
+      "zip": "plugins/codegallery.css-snippets/plugin.zip",
+      "readme": "plugins/codegallery.css-snippets/readme.md"
+    },
+    {
+      "id": "codegallery.javascript-snippets",
+      "name": "JavaScript Snippets",
+      "version": "1.0.0",
+      "description_short": "Ready-made JavaScript: functions, async fetch, DOM events, classes, array helpers, debounce, localStorage, Node server.",
+      "keywords": [
+        "javascript",
+        "js",
+        "snippets",
+        "node"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.javascript-snippets/icon.png",
+      "zip": "plugins/codegallery.javascript-snippets/plugin.zip",
+      "readme": "plugins/codegallery.javascript-snippets/readme.md"
+    }
+  ]
+}
