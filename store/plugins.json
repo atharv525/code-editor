@@ -124,11 +124,10 @@
     },
     {
       "id": "codegallery.basedpyright",
-      "name": "BasedPyright (Pylance engine)",
+      "name": "BasedPyright",
       "version": "1.0.0",
-      "description_short": "Fast Python type checking and IntelliSense, built on Pyright, the open-source engine inside Pylance. (Pylance itself is licensed only for Microsoft VS Code.)",
+      "description_short": "Fast Python type checking and IntelliSense with BasedPyright (built on the open-source Pyright engine): auto-complete, type errors, hover docs, go to definition.",
       "keywords": [
-        "pylance",
         "pyright",
         "basedpyright",
         "python",
@@ -167,7 +166,7 @@
     },
     {
       "id": "codegallery.java",
-      "name": "Java Extension Pack",
+      "name": "Java",
       "version": "1.0.0",
       "description_short": "Java support with Eclipse JDT Language Server: auto-complete, errors, imports, refactoring. Installs OpenJDK (large download, first time only).",
       "keywords": [
@@ -308,7 +307,7 @@
       "id": "codegallery.rest-book",
       "name": "REST Book",
       "version": "1.0.0",
-      "description_short": "Send HTTP requests from .http / .rest files and see the response in a new tab, like REST Client / REST Book. Variables with @name = value and {{name}}. Separate requests with ###.",
+      "description_short": "Send HTTP requests from .http / .rest files and see the response in a new tab. Variables with @name = value and {{name}}. Separate requests with ###.",
       "keywords": [
         "rest",
         "http",
@@ -391,7 +390,7 @@
     },
     {
       "id": "codegallery.svelte",
-      "name": "Svelte for VS Code",
+      "name": "Svelte",
       "version": "1.0.0",
       "description_short": "Svelte support: .svelte highlighting, the official Svelte language server (auto-complete, errors, go to definition in markup, script and style) and component snippets.",
       "keywords": [
@@ -493,7 +492,7 @@
     },
     {
       "id": "codegallery.mongodb",
-      "name": "MongoDB for VS Code",
+      "name": "MongoDB",
       "version": "1.0.0",
       "description_short": "MongoDB snippets (Node driver, Mongoose models, queries, aggregation) and MongoDB Shell (mongosh) in the terminal: connect with your connection string (Atlas works).",
       "keywords": [

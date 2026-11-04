@@ -1,4 +1,4 @@
-# Java Extension Pack
+# Java
 
 Java support with Eclipse JDT Language Server: auto-complete, errors, imports, refactoring. Installs OpenJDK (large download, first time only).
 

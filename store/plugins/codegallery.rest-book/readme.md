@@ -1,6 +1,6 @@
 # REST Book
 
-Send HTTP requests from .http / .rest files and see the response in a new tab, like REST Client / REST Book. Variables with @name = value and {{name}}. Separate requests with ###.
+Send HTTP requests from .http / .rest files and see the response in a new tab. Variables with @name = value and {{name}}. Separate requests with ###.
 
 ## How to use
 

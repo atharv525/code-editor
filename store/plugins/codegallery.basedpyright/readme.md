@@ -1,6 +1,6 @@
-# BasedPyright (Pylance engine)
+# BasedPyright
 
-Fast Python type checking and IntelliSense, built on Pyright, the open-source engine inside Pylance. (Pylance itself is licensed only for Microsoft VS Code.)
+Fast Python type checking and IntelliSense with BasedPyright (built on the open-source Pyright engine): auto-complete, type errors, hover docs, go to definition.
 
 ## How to use
 
