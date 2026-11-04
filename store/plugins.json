@@ -303,6 +303,214 @@
       "icon": "plugins/codegallery.flutter-snippets/icon.png",
       "zip": "plugins/codegallery.flutter-snippets/plugin.zip",
       "readme": "plugins/codegallery.flutter-snippets/readme.md"
+    },
+    {
+      "id": "codegallery.rest-book",
+      "name": "REST Book",
+      "version": "1.0.0",
+      "description_short": "Send HTTP requests from .http / .rest files and see the response in a new tab, like REST Client / REST Book. Variables with @name = value and {{name}}. Separate requests with ###.",
+      "keywords": [
+        "rest",
+        "http",
+        "api",
+        "request",
+        "postman",
+        "rest client"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.rest-book/icon.png",
+      "zip": "plugins/codegallery.rest-book/plugin.zip",
+      "readme": "plugins/codegallery.rest-book/readme.md"
+    },
+    {
+      "id": "codegallery.openapi",
+      "name": "OpenAPI (Swagger) Editor",
+      "version": "1.0.0",
+      "description_short": "Write OpenAPI / Swagger specs with YAML language server (auto-complete and validation from the OpenAPI schema), snippets, and a live Swagger UI preview.",
+      "keywords": [
+        "openapi",
+        "swagger",
+        "yaml",
+        "api",
+        "docs"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.openapi/icon.png",
+      "zip": "plugins/codegallery.openapi/plugin.zip",
+      "readme": "plugins/codegallery.openapi/readme.md"
+    },
+    {
+      "id": "codegallery.graphql",
+      "name": "GraphQL",
+      "version": "1.0.0",
+      "description_short": "GraphQL syntax highlighting (.graphql, .gql), language server (auto-complete and validation from your schema via graphql.config) and snippets.",
+      "keywords": [
+        "graphql",
+        "gql",
+        "apollo",
+        "schema",
+        "lsp"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.graphql/icon.png",
+      "zip": "plugins/codegallery.graphql/plugin.zip",
+      "readme": "plugins/codegallery.graphql/readme.md"
+    },
+    {
+      "id": "codegallery.prisma",
+      "name": "Prisma",
+      "version": "1.0.0",
+      "description_short": "Prisma schema support: highlighting for .prisma files, official Prisma language server (auto-complete, errors, formatting) and model snippets. Terminal commands for prisma generate / migrate.",
+      "keywords": [
+        "prisma",
+        "orm",
+        "database",
+        "schema",
+        "lsp"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.prisma/icon.png",
+      "zip": "plugins/codegallery.prisma/plugin.zip",
+      "readme": "plugins/codegallery.prisma/readme.md"
+    },
+    {
+      "id": "codegallery.svelte",
+      "name": "Svelte for VS Code",
+      "version": "1.0.0",
+      "description_short": "Svelte support: .svelte highlighting, the official Svelte language server (auto-complete, errors, go to definition in markup, script and style) and component snippets.",
+      "keywords": [
+        "svelte",
+        "sveltekit",
+        "lsp",
+        "components"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.svelte/icon.png",
+      "zip": "plugins/codegallery.svelte/plugin.zip",
+      "readme": "plugins/codegallery.svelte/readme.md"
+    },
+    {
+      "id": "codegallery.angular",
+      "name": "Angular Language Service",
+      "version": "1.0.0",
+      "description_short": "Angular template intelligence with the official Angular language server: auto-complete, errors and go to definition in templates. Experimental on phone (needs your project's node_modules for best results). Plus component and service snippets.",
+      "keywords": [
+        "angular",
+        "typescript",
+        "templates",
+        "lsp"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.angular/icon.png",
+      "zip": "plugins/codegallery.angular/plugin.zip",
+      "readme": "plugins/codegallery.angular/readme.md"
+    },
+    {
+      "id": "codegallery.react-native",
+      "name": "React Native Tools",
+      "version": "1.0.0",
+      "description_short": "React Native snippets (components, hooks, StyleSheet, FlatList, navigation) and terminal commands. Auto-complete for JS/TS comes from the built-in TypeScript server. Building the app needs a computer or Expo.",
+      "keywords": [
+        "react native",
+        "react-native",
+        "mobile",
+        "android",
+        "ios"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.react-native/icon.png",
+      "zip": "plugins/codegallery.react-native/plugin.zip",
+      "readme": "plugins/codegallery.react-native/readme.md"
+    },
+    {
+      "id": "codegallery.expo",
+      "name": "Expo Tools",
+      "version": "1.0.0",
+      "description_short": "Expo snippets (app.json, Expo Router screens, layouts) and terminal commands: create app, start dev server with tunnel (scan the QR in Expo Go), install packages. Experimental on phone.",
+      "keywords": [
+        "expo",
+        "react native",
+        "eas",
+        "mobile"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.expo/icon.png",
+      "zip": "plugins/codegallery.expo/plugin.zip",
+      "readme": "plugins/codegallery.expo/readme.md"
+    },
+    {
+      "id": "codegallery.firebase",
+      "name": "Firebase",
+      "version": "1.0.0",
+      "description_short": "Firebase snippets (init, Auth, Firestore CRUD, Storage, security rules) and Firebase CLI commands in the terminal: login, init, deploy, emulators.",
+      "keywords": [
+        "firebase",
+        "firestore",
+        "auth",
+        "google",
+        "hosting"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.firebase/icon.png",
+      "zip": "plugins/codegallery.firebase/plugin.zip",
+      "readme": "plugins/codegallery.firebase/readme.md"
+    },
+    {
+      "id": "codegallery.mongodb",
+      "name": "MongoDB for VS Code",
+      "version": "1.0.0",
+      "description_short": "MongoDB snippets (Node driver, Mongoose models, queries, aggregation) and MongoDB Shell (mongosh) in the terminal: connect with your connection string (Atlas works).",
+      "keywords": [
+        "mongodb",
+        "mongo",
+        "mongoose",
+        "database",
+        "nosql"
+      ],
+      "author": "Code Gallery",
+      "license": "MIT",
+      "price": 0,
+      "downloads": 0,
+      "updated": "2026-11-04",
+      "icon": "plugins/codegallery.mongodb/icon.png",
+      "zip": "plugins/codegallery.mongodb/plugin.zip",
+      "readme": "plugins/codegallery.mongodb/readme.md"
     }
   ]
 }
