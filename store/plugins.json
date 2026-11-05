@@ -15,7 +15,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.python-snippets/icon.png",
       "zip": "plugins/codegallery.python-snippets/plugin.zip",
       "readme": "plugins/codegallery.python-snippets/readme.md"
@@ -34,7 +34,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.php-snippets/icon.png",
       "zip": "plugins/codegallery.php-snippets/plugin.zip",
       "readme": "plugins/codegallery.php-snippets/readme.md"
@@ -56,7 +56,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.nextjs-snippets/icon.png",
       "zip": "plugins/codegallery.nextjs-snippets/plugin.zip",
       "readme": "plugins/codegallery.nextjs-snippets/readme.md"
@@ -77,7 +77,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.css-snippets/icon.png",
       "zip": "plugins/codegallery.css-snippets/plugin.zip",
       "readme": "plugins/codegallery.css-snippets/readme.md"
@@ -97,7 +97,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.javascript-snippets/icon.png",
       "zip": "plugins/codegallery.javascript-snippets/plugin.zip",
       "readme": "plugins/codegallery.javascript-snippets/readme.md"
@@ -117,7 +117,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.python-language/icon.png",
       "zip": "plugins/codegallery.python-language/plugin.zip",
       "readme": "plugins/codegallery.python-language/readme.md"
@@ -138,7 +138,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.basedpyright/icon.png",
       "zip": "plugins/codegallery.basedpyright/plugin.zip",
       "readme": "plugins/codegallery.basedpyright/readme.md"
@@ -159,7 +159,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.cpp/icon.png",
       "zip": "plugins/codegallery.cpp/plugin.zip",
       "readme": "plugins/codegallery.cpp/readme.md"
@@ -179,7 +179,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.java/icon.png",
       "zip": "plugins/codegallery.java/plugin.zip",
       "readme": "plugins/codegallery.java/readme.md"
@@ -199,7 +199,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.kotlin/icon.png",
       "zip": "plugins/codegallery.kotlin/plugin.zip",
       "readme": "plugins/codegallery.kotlin/readme.md"
@@ -218,7 +218,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.dart/icon.png",
       "zip": "plugins/codegallery.dart/plugin.zip",
       "readme": "plugins/codegallery.dart/readme.md"
@@ -238,7 +238,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.go/icon.png",
       "zip": "plugins/codegallery.go/plugin.zip",
       "readme": "plugins/codegallery.go/readme.md"
@@ -258,7 +258,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.rust-analyzer/icon.png",
       "zip": "plugins/codegallery.rust-analyzer/plugin.zip",
       "readme": "plugins/codegallery.rust-analyzer/readme.md"
@@ -278,7 +278,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.intelephense/icon.png",
       "zip": "plugins/codegallery.intelephense/plugin.zip",
       "readme": "plugins/codegallery.intelephense/readme.md"
@@ -298,7 +298,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.flutter-snippets/icon.png",
       "zip": "plugins/codegallery.flutter-snippets/plugin.zip",
       "readme": "plugins/codegallery.flutter-snippets/readme.md"
@@ -320,7 +320,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.rest-book/icon.png",
       "zip": "plugins/codegallery.rest-book/plugin.zip",
       "readme": "plugins/codegallery.rest-book/readme.md"
@@ -341,7 +341,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.openapi/icon.png",
       "zip": "plugins/codegallery.openapi/plugin.zip",
       "readme": "plugins/codegallery.openapi/readme.md"
@@ -362,7 +362,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.graphql/icon.png",
       "zip": "plugins/codegallery.graphql/plugin.zip",
       "readme": "plugins/codegallery.graphql/readme.md"
@@ -383,7 +383,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.prisma/icon.png",
       "zip": "plugins/codegallery.prisma/plugin.zip",
       "readme": "plugins/codegallery.prisma/readme.md"
@@ -403,7 +403,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.svelte/icon.png",
       "zip": "plugins/codegallery.svelte/plugin.zip",
       "readme": "plugins/codegallery.svelte/readme.md"
@@ -423,7 +423,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.angular/icon.png",
       "zip": "plugins/codegallery.angular/plugin.zip",
       "readme": "plugins/codegallery.angular/readme.md"
@@ -444,7 +444,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.react-native/icon.png",
       "zip": "plugins/codegallery.react-native/plugin.zip",
       "readme": "plugins/codegallery.react-native/readme.md"
@@ -464,7 +464,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.expo/icon.png",
       "zip": "plugins/codegallery.expo/plugin.zip",
       "readme": "plugins/codegallery.expo/readme.md"
@@ -485,7 +485,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.firebase/icon.png",
       "zip": "plugins/codegallery.firebase/plugin.zip",
       "readme": "plugins/codegallery.firebase/readme.md"
@@ -506,7 +506,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.mongodb/icon.png",
       "zip": "plugins/codegallery.mongodb/plugin.zip",
       "readme": "plugins/codegallery.mongodb/readme.md"
@@ -527,7 +527,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.live-server/icon.png",
       "zip": "plugins/codegallery.live-server/plugin.zip",
       "readme": "plugins/codegallery.live-server/readme.md"
@@ -548,7 +548,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.html-css-support/icon.png",
       "zip": "plugins/codegallery.html-css-support/plugin.zip",
       "readme": "plugins/codegallery.html-css-support/readme.md"
@@ -569,7 +569,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.js-debugger/icon.png",
       "zip": "plugins/codegallery.js-debugger/plugin.zip",
       "readme": "plugins/codegallery.js-debugger/readme.md"
@@ -590,7 +590,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.auto-rename-tag/icon.png",
       "zip": "plugins/codegallery.auto-rename-tag/plugin.zip",
       "readme": "plugins/codegallery.auto-rename-tag/readme.md"
@@ -611,7 +611,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.css-peek/icon.png",
       "zip": "plugins/codegallery.css-peek/plugin.zip",
       "readme": "plugins/codegallery.css-peek/readme.md"
@@ -632,7 +632,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.tailwind/icon.png",
       "zip": "plugins/codegallery.tailwind/plugin.zip",
       "readme": "plugins/codegallery.tailwind/readme.md"
@@ -652,7 +652,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.eslint/icon.png",
       "zip": "plugins/codegallery.eslint/plugin.zip",
       "readme": "plugins/codegallery.eslint/readme.md"
@@ -672,7 +672,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.prettier/icon.png",
       "zip": "plugins/codegallery.prettier/plugin.zip",
       "readme": "plugins/codegallery.prettier/readme.md"
@@ -693,7 +693,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.vue/icon.png",
       "zip": "plugins/codegallery.vue/plugin.zip",
       "readme": "plugins/codegallery.vue/readme.md"
@@ -714,7 +714,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.git-history/icon.png",
       "zip": "plugins/codegallery.git-history/plugin.zip",
       "readme": "plugins/codegallery.git-history/readme.md"
@@ -735,7 +735,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.git-graph/icon.png",
       "zip": "plugins/codegallery.git-graph/plugin.zip",
       "readme": "plugins/codegallery.git-graph/readme.md"
@@ -756,7 +756,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.github-pr/icon.png",
       "zip": "plugins/codegallery.github-pr/plugin.zip",
       "readme": "plugins/codegallery.github-pr/readme.md"
@@ -776,7 +776,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.github-repos/icon.png",
       "zip": "plugins/codegallery.github-repos/plugin.zip",
       "readme": "plugins/codegallery.github-repos/readme.md"
@@ -797,7 +797,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.project-manager/icon.png",
       "zip": "plugins/codegallery.project-manager/plugin.zip",
       "readme": "plugins/codegallery.project-manager/readme.md"
@@ -818,7 +818,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.sqlite/icon.png",
       "zip": "plugins/codegallery.sqlite/plugin.zip",
       "readme": "plugins/codegallery.sqlite/readme.md"
@@ -840,7 +840,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.sql-tools/icon.png",
       "zip": "plugins/codegallery.sql-tools/plugin.zip",
       "readme": "plugins/codegallery.sql-tools/readme.md"
@@ -862,7 +862,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.api-client/icon.png",
       "zip": "plugins/codegallery.api-client/plugin.zip",
       "readme": "plugins/codegallery.api-client/readme.md"
@@ -882,7 +882,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.docker/icon.png",
       "zip": "plugins/codegallery.docker/plugin.zip",
       "readme": "plugins/codegallery.docker/readme.md"
@@ -904,7 +904,7 @@
       "license": "MIT",
       "price": 0,
       "downloads": 0,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "icon": "plugins/codegallery.ssh-remote/icon.png",
       "zip": "plugins/codegallery.ssh-remote/plugin.zip",
       "readme": "plugins/codegallery.ssh-remote/readme.md"
